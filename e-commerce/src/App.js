@@ -1,4 +1,6 @@
+
 import React, { useEffect } from "react";
+// import "./App.css";
 import Header from "./header";
 import Home from "./home";
 import Login from "./login";
@@ -24,3 +26,4 @@ function App() {
 }
 
 export default App;
+

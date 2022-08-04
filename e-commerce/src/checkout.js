@@ -16,6 +16,7 @@ const Checkout = () => {
                 <>
                     <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">
                         <div className="flex w-60 relative my-6 mx-auto max-w-3xl">
+                            {/*content*/}
                             <div className="text-center text-lg border-0 rounded-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
@@ -36,6 +37,7 @@ const Checkout = () => {
                                 </h1>
                                 <h1>It will be delivered in 5 days</h1>
 
+                                {/*footer*/}
                                 <button
                                     className="text-red-500 background-transparent font-bold uppercase px-6 py-2 text-sm outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
                                     type="button"

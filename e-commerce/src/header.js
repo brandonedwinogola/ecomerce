@@ -26,7 +26,7 @@ function Header() {
                             to={"/"}
                         >
                             <span className="sr-only">Home</span>
-                            <h1 className="text-3xl font-sans">ShopKart.</h1>
+                            <h1 className="text-3xl font-sans">BRANDON STORE</h1>
                         </Link>
                     </div>
 
